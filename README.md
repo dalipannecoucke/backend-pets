@@ -1,5 +1,5 @@
 # Pets
-Voorbeeld project om met behulp van Spring Boot en Spring MVC een REST API te ontwikkelen, inclusief testen
+back end opgezet door leerkracht om te gebruiken voor de front end
 
 
 
